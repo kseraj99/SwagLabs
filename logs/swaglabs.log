@@ -1,0 +1,40 @@
+2025-08-22 17:19:44:INFO:****************Test_01_Admin_Login********************
+2025-08-22 17:19:44:WARNING:**check for the warning**
+2025-08-22 17:19:46:INFO:***************Title verification is successful*******************
+2025-08-22 17:19:48:INFO:***************Valid admin loging*******************
+2025-08-22 17:19:49:INFO:***************Admin login is successful*******************
+2025-08-22 17:19:51:INFO:***************InValid admin loging*******************
+2025-08-22 17:19:53:INFO:***************Invalid login is successful*******************
+2025-08-22 17:25:28:INFO:****************Test_01_Admin_Login********************
+2025-08-22 17:25:28:WARNING:**check for the warning**
+2025-08-22 17:25:29:INFO:***************Title verification is successful*******************
+2025-08-22 17:25:31:INFO:***************Valid admin loging*******************
+2025-08-22 17:25:34:INFO:***************InValid admin loging*******************
+2025-08-22 17:25:35:INFO:***************Invalid login is successful*******************
+2025-08-22 17:25:39:INFO:***************Valid admin loging*******************
+2025-08-22 17:25:40:INFO:***************Admin login is successful*******************
+2025-08-22 17:25:41:INFO:************* Order Place successfully *****************
+2025-08-22 17:26:54:INFO:****************Test_01_Admin_Login********************
+2025-08-22 17:26:54:WARNING:**check for the warning**
+2025-08-22 17:26:57:INFO:***************Title verification is successful*******************
+2025-08-22 17:26:59:INFO:***************Valid admin loging*******************
+2025-08-22 17:27:01:INFO:***************Admin login is successful*******************
+2025-08-22 17:27:02:INFO:***************InValid admin loging*******************
+2025-08-22 17:27:04:INFO:***************Invalid login is successful*******************
+2025-08-22 17:34:06:INFO:****************Test_01_Admin_Login********************
+2025-08-22 17:34:06:WARNING:**check for the warning**
+2025-08-22 17:34:08:INFO:***************Title verification is successful*******************
+2025-08-22 17:34:10:INFO:***************Valid admin loging*******************
+2025-08-22 17:34:11:INFO:***************Admin login is successful*******************
+2025-08-22 17:34:13:INFO:***************InValid admin loging*******************
+2025-08-22 17:34:14:INFO:***************Invalid login is successful*******************
+2025-08-22 20:15:33:INFO:****************Test_01_Admin_Login********************
+2025-08-22 20:15:33:WARNING:**check for the warning**
+2025-08-22 20:15:35:INFO:***************Title verification is successful*******************
+2025-08-22 20:15:36:INFO:***************Valid admin loging*******************
+2025-08-22 20:15:38:INFO:***************Admin login is successful*******************
+2025-08-22 20:15:39:INFO:***************InValid admin loging*******************
+2025-08-22 20:15:40:INFO:***************Invalid login is successful*******************
+2025-08-22 20:17:36:INFO:***************Valid admin loging*******************
+2025-08-22 20:17:38:INFO:***************Admin login is successful*******************
+2025-08-22 20:17:39:INFO:************* Order Place successfully *****************
