@@ -46,7 +46,7 @@ class Test01AdminLogin:
 
 
     def test_valid_admin_login(self, setup):
-        self.logger.info("***************Valid admin loging*******************")
+        self.logger.info("*************** Verify Valid admin loging*******************")
         self.driver = setup
         self.driver.implicitly_wait(4)
         self.driver.get(self.admin_page_url)
