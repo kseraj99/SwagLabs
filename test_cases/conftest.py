@@ -1,3 +1,4 @@
+import oracledb
 import pytest
 from pytest_metadata.plugin import metadata, metadata_key
 from selenium import webdriver
@@ -74,3 +75,16 @@ def suppress_stderr():
 def silence_tflite_logs():
     with suppress_stderr():
         yield
+
+
+@pytest.fixture(scope="module")
+def db_connection():
+    oracledb.init_oracle_client(lib_dir=r"C:\oracle\instantclient_23_8")
+    dsn = oracledb.makedsn("localhost", 1521, sid="xe")
+    conn = oracledb.connect(
+        user="system",
+        password="system",
+        dsn=dsn
+    )
+    yield conn
+    conn.close()
